@@ -1,11 +1,10 @@
-
-<b>Photo Mission Application</b>
+# Photo Mission Application
 
 move to terminal and do 'npm install'.
 
 Also, you should type your own account info in 'photoMissionForMe/config/environment.js'
 
-# google-cloud-vision
+<b>google-cloud-vision</b>
 Google Cloud Vision in a React Native app using Expo
 
 
